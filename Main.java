@@ -15,9 +15,6 @@ public class Main {
         System.out.println(isStudent); //skriver ut värdet av variabeln isStudent
         char grade = 'A'; //deklarerar variabeln grade som char och initierar den med värdet A
         System.out.print(grade); //skriver ut värdet av variabeln grade
-        
-
-
 
     }
 }
