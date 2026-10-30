@@ -1,3 +1,5 @@
+package Week_5;
+
 public class ExceptionsDetective {
     // Bonus - Exceptiondetektiven 
     // Bestäm för varje kodrad om problemet upptäcks vid kompilering,

@@ -1,3 +1,4 @@
+package Week_4;
 public class FordonSuperkraft {
     //Övning 3 – Fordon med superkrafter 
     // Olika typer av fordon kan ha samma förmåga. 

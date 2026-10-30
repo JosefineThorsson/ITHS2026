@@ -1,3 +1,4 @@
+package Week_2;
 public class Exercise0510 {
     public static void main(String[] args)  {
         //1. Code blocks & Scope

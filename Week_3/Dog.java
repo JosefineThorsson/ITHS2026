@@ -1,3 +1,4 @@
+package Week_3;
 public class Dog {
     //Övning 4 - den hungriga hunden
     // Skapa en klass Dog där hundens hunger kan förändras med hjälp av metoder. 

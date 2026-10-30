@@ -1,3 +1,4 @@
+package Week_3;
 public class AdventureCompass {
     //4. Äventyrarens kompass 
     // Du skapar ett äventyrsspel där spelaren kan gå i olika väderstreck. 

@@ -1,3 +1,4 @@
+package Week_2;
 public class Spelkaraktar {
     String namn;
     int liv;

@@ -1,3 +1,4 @@
+package Week_2;
 public class Robot {
     //Skapa fields
     public String namn;

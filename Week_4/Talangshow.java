@@ -1,3 +1,4 @@
+package Week_4;
 public class Talangshow {
     //Övning 4 – Djurens talangshow 
     // Nu kombinerar du arv, interface och polymorfism. 

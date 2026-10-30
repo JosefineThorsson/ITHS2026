@@ -1,3 +1,4 @@
+package Week_5;
 import java.util.InputMismatchException;
 import java.util.Scanner; //hämta Scanner som finns inbyggd i Java
 

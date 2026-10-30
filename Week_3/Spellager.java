@@ -1,3 +1,4 @@
+package Week_3;
 public class Spellager {
     //1. Ditt eget spellager 
     // Du har samlat fem föremål i ett datorspel och vill spara dem i en array. 

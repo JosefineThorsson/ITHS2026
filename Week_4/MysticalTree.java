@@ -1,3 +1,4 @@
+package Week_4;
 public class MysticalTree {
     //Övning 2 – Mystiska trädet 
     // Alla träd är träd, men olika träd kan beskrivas på olika sätt. 

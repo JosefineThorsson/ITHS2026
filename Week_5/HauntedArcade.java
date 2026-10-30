@@ -1,3 +1,4 @@
+package Week_5;
 // Gruppövning: Clean Code
 
 public class HauntedArcade {

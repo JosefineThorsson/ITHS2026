@@ -1,3 +1,4 @@
+package Week_3;
 public class Robot2 {
     //Övning 1 - hälsningsroboten
     // Skapa en klass Robot. Roboten ska kunna hälsa när du anropar en metod. 

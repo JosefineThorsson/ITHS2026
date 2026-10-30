@@ -1,3 +1,4 @@
+package Week_3;
 public class Power {
     //Övning 6 – Samma metod, olika magi 
     // Skapa flera versioner av en metod med samma namn men olika parametrar. 

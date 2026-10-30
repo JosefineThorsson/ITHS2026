@@ -1,3 +1,4 @@
+package Week_2;
 public class Student {
     //Skapar field values
     String name;

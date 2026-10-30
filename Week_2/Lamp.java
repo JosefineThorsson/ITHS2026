@@ -1,3 +1,4 @@
+package Week_2;
 public class Lamp {
     //Skapa tre stycken field values med olika types
     String color;

@@ -1,3 +1,4 @@
+package Week_3;
 public class Superhero {
     //Övning 3 - Superhjältekraft
     // En superhjälte har olika egenskaper som tillsammans avgör hur stark hjälten är. 

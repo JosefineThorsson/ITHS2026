@@ -1,3 +1,4 @@
+package Week_3;
 public class BossFight {
     //Övning 7 – Boss fight – Metodprogrammet 
     // Skapa ett litet program där spelaren slåss mot ett monster.

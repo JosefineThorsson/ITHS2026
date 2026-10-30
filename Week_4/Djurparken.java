@@ -1,3 +1,4 @@
+package Week_4;
 public class Djurparken {
     //Övning 1 – Djurparken 
     // I djurparken finns flera sorters djur.

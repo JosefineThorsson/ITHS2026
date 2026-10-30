@@ -1,3 +1,4 @@
+package Week_5;
 public class SkattkistaKrasch {
     public static void main(String[] args)  {
         // 1. Skattkistan som kraschar 

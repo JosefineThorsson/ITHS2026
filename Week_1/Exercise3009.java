@@ -1,3 +1,4 @@
+package Week_1;
 public class Exercise3009   {
     public static void main(String[] args)  {
         //1. Skapa en String med ditt namn.

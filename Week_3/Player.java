@@ -1,3 +1,4 @@
+package Week_3;
 public class Player {
     // Övning 5 – Hemlig highscore 
     // Skapa en klass Player där spelarens poäng är privat och bara nås genom metoder. 

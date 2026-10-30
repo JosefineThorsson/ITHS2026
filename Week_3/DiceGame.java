@@ -1,3 +1,4 @@
+package Week_3;
 import java.util.Arrays; // Behövs för Arrays.sort() och Arrays.toString().
 
 public class DiceGame {

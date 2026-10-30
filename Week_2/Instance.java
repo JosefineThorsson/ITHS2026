@@ -1,3 +1,5 @@
+package Week_2;
+
 public class Instance { // En container klass för mina objekt, där deras instanser sparas
 
     //Djurobjekt

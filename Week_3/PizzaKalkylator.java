@@ -1,3 +1,4 @@
+package Week_3;
 import java.util.Scanner; //hämta Scanner som finns inbyggd i Java
 
 public class PizzaKalkylator {

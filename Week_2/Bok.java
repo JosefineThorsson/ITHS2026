@@ -1,3 +1,4 @@
+package Week_2;
 public class Bok {
     //Skapa field values
     String title;

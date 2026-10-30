@@ -1,3 +1,4 @@
+package Week_3;
 public class Skattjakten {
     //3. Skattjakten 
     // Du ska skapa en liten skattkarta med hjälp av en tvådimensionell array.
